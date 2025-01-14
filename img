@@ -1,0 +1,14 @@
+<script>start("c:\\Users\\alima\\OneDrive\\Desktop\\Youtube Project 1\\img\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("about-beach.jpg","about-beach.jpg",0,213608,"209 kB",1736438239,"1/10/25, 12:57:19 AM");</script>
+<script>addRow("explore-beach.jpg","explore-beach.jpg",0,425503,"416 kB",1736438246,"1/10/25, 12:57:26 AM");</script>
+<script>addRow("explore-perfil.png","explore-perfil.png",0,23806,"23.2 kB",1736438251,"1/10/25, 12:57:31 AM");</script>
+<script>addRow("favicon.png","favicon.png",0,409,"409 B",1736438256,"1/10/25, 12:57:36 AM");</script>
+<script>addRow("home-beach.jpg","home-beach.jpg",0,114661,"112 kB",1736438261,"1/10/25, 12:57:41 AM");</script>
+<script>addRow("home-bg.jpg","home-bg.jpg",0,351792,"344 kB",1736438277,"1/10/25, 12:57:57 AM");</script>
+<script>addRow("home-lake.jpg","home-lake.jpg",0,115444,"113 kB",1736438287,"1/10/25, 12:58:07 AM");</script>
+<script>addRow("home-mountain.jpg","home-mountain.jpg",0,50824,"49.6 kB",1736438293,"1/10/25, 12:58:13 AM");</script>
+<script>addRow("home-trees.jpg","home-trees.jpg",0,71611,"69.9 kB",1736438300,"1/10/25, 12:58:20 AM");</script>
+<script>addRow("join-island.jpg","join-island.jpg",0,206633,"202 kB",1736438308,"1/10/25, 12:58:28 AM");</script>
+<script>addRow("popular-forest.jpg","popular-forest.jpg",0,52925,"51.7 kB",1736438314,"1/10/25, 12:58:34 AM");</script>
+<script>addRow("popular-mountain.jpg","popular-mountain.jpg",0,48706,"47.6 kB",1736438324,"1/10/25, 12:58:44 AM");</script>
